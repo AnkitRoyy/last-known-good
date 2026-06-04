@@ -110,5 +110,7 @@
   "workbench.colorTheme": "Night Wolf (black) (No Italics)",
   "workbench.editor.showTabs" : "single",
   "explorer.compactFolders": false,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gemini-3.1-pro-preview",
   // "terminal.integrated.fontFamily": "Iosevka Charon Mono",
 }

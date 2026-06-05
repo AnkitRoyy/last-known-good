@@ -3553,6 +3553,7 @@ ros-jazzy-fastrtps
 ros-jazzy-fastrtps-cmake-module
 ros-jazzy-filters
 ros-jazzy-foonathan-memory-vendor
+ros-jazzy-forward-command-controller
 ros-jazzy-generate-parameter-library
 ros-jazzy-generate-parameter-library-py
 ros-jazzy-geographic-msgs
@@ -3677,6 +3678,7 @@ ros-jazzy-pendulum-control
 ros-jazzy-pendulum-msgs
 ros-jazzy-pluginlib
 ros-jazzy-point-cloud-transport
+ros-jazzy-position-controllers
 ros-jazzy-pybind11-vendor
 ros-jazzy-python-cmake-module
 ros-jazzy-python-orocos-kdl-vendor

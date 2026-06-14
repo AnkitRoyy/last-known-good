@@ -215,6 +215,7 @@ fakeroot
 fastboot
 fdisk
 ffmpeg
+ffuf
 fig2dev
 file
 findutils

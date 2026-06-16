@@ -3501,6 +3501,8 @@ ros-jazzy-behaviortree-cpp
 ros-jazzy-bond
 ros-jazzy-bondcpp
 ros-jazzy-builtin-interfaces
+ros-jazzy-camera-calibration-parsers
+ros-jazzy-camera-info-manager
 ros-jazzy-class-loader
 ros-jazzy-common-interfaces
 ros-jazzy-composition
@@ -3897,6 +3899,7 @@ ros-jazzy-urdf-parser-plugin
 ros-jazzy-urdf-tutorial
 ros-jazzy-urdfdom
 ros-jazzy-urdfdom-headers
+ros-jazzy-usb-cam
 ros-jazzy-velodyne
 ros-jazzy-velodyne-driver
 ros-jazzy-velodyne-laserscan

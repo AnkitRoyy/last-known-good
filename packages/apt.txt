@@ -103,6 +103,8 @@ ca-certificates-java
 cabextract
 calculix-ccx
 catch2
+cheese
+cheese-common
 chrome-gnome-shell
 clang
 clang-18
@@ -410,6 +412,7 @@ gnome-themes-extra:amd64
 gnome-themes-extra-data
 gnome-tweaks
 gnome-user-docs
+gnome-video-effects
 gnupg
 gnupg-l10n
 gnupg-utils
@@ -439,6 +442,7 @@ grub2-common
 gsettings-desktop-schemas
 gsettings-ubuntu-schemas
 gstreamer1.0-alsa:amd64
+gstreamer1.0-clutter-3.0:amd64
 gstreamer1.0-gl:amd64
 gstreamer1.0-gtk3:amd64
 gstreamer1.0-libav:amd64
@@ -895,6 +899,8 @@ libcfitsio-doc
 libcfitsio10t64:amd64
 libcgraph6:amd64
 libcharls2:amd64
+libcheese-gtk25:amd64
+libcheese8:amd64
 libchewing3:amd64
 libchewing3-data
 libcholmod5:amd64
@@ -909,10 +915,18 @@ libcli11-dev
 libclone-perl:amd64
 libclucene-contribs1t64:amd64
 libclucene-core1t64:amd64
+libclutter-1.0-0:amd64
+libclutter-1.0-common
+libclutter-gst-3.0-0:amd64
+libclutter-gtk-1.0-0:amd64
 libcoarrays-dev:amd64
 libcoarrays-openmpi-dev:amd64
 libcodec2-1.2:amd64
 libcodec2-1.2:i386
+libcogl-common
+libcogl-pango20:amd64
+libcogl-path20:amd64
+libcogl20:amd64
 libcoin80t64:amd64
 libcolamd3:amd64
 libcollection4t64:amd64

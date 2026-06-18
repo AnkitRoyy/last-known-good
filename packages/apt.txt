@@ -3904,6 +3904,8 @@ ros-jazzy-topic-monitor
 ros-jazzy-tracetools
 ros-jazzy-trajectory-msgs
 ros-jazzy-turtlesim
+ros-jazzy-twist-mux
+ros-jazzy-twist-mux-msgs
 ros-jazzy-type-description-interfaces
 ros-jazzy-uncrustify-vendor
 ros-jazzy-unique-identifier-msgs

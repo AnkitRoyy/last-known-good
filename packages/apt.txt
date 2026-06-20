@@ -627,6 +627,7 @@ libarmadillo12
 libarpack2-dev:amd64
 libarpack2t64:amd64
 libasan8:amd64
+libasio-dev
 libasm-java
 libasound2-data
 libasound2-dev:amd64
@@ -3907,6 +3908,9 @@ ros-jazzy-turtlesim
 ros-jazzy-twist-mux
 ros-jazzy-twist-mux-msgs
 ros-jazzy-type-description-interfaces
+ros-jazzy-ublox-gps
+ros-jazzy-ublox-msgs
+ros-jazzy-ublox-serialization
 ros-jazzy-uncrustify-vendor
 ros-jazzy-unique-identifier-msgs
 ros-jazzy-urdf

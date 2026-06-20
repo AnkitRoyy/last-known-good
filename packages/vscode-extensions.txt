@@ -27,6 +27,7 @@ ms-vscode.cpptools-extension-pack
 ms-vscode.cpptools-themes
 openai.chatgpt
 pkief.material-icon-theme
+platformio.platformio-ide
 pnp.polacode
 qufiwefefwoyn.kanagawa
 redhat.java

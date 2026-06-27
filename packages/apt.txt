@@ -3920,6 +3920,7 @@ ros-jazzy-urdf-tutorial
 ros-jazzy-urdfdom
 ros-jazzy-urdfdom-headers
 ros-jazzy-usb-cam
+ros-jazzy-v4l2-camera
 ros-jazzy-velodyne
 ros-jazzy-velodyne-driver
 ros-jazzy-velodyne-laserscan

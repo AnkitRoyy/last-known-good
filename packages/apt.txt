@@ -58,6 +58,7 @@ at-spi2-common
 at-spi2-core
 autoconf
 automake
+autopoint
 autotools-dev
 avahi-daemon
 avrdude
@@ -295,6 +296,7 @@ gdisk
 gdm3
 geoclue-2.0
 geocode-glib-common
+gettext
 gettext-base
 gfortran
 gfortran-13
@@ -2958,6 +2960,7 @@ lttng-tools
 lua-luv:amd64
 m17n-db
 m4
+mactelnet-client
 make
 man-db
 manpages

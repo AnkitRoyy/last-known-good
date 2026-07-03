@@ -6,6 +6,8 @@ attrs==23.2.0
 Babel==2.10.3
 bcc==0.29.1
 beautifulsoup4==4.12.3
+bitarray==3.8.2
+bitstring==4.4.0
 blinker==1.7.0
 bloom==0.14.3
 bottle==0.13.4
@@ -15,6 +17,7 @@ Brotli==1.1.0
 catkin-pkg==1.1.0
 catkin-pkg-modules==1.1.0
 certifi==2023.11.17
+cffi==2.0.0
 chardet==5.2.0
 click==8.1.6
 cloud-init==25.3
@@ -48,7 +51,7 @@ command-not-found==0.3
 configobj==5.0.8
 contourpy==1.0.7
 coverage==7.4.4
-cryptography==41.0.7
+cryptography==49.0.0
 cssselect==1.2.0
 cupshelpers==1.0
 cycler==0.11.0
@@ -66,6 +69,8 @@ docopt==0.6.2
 docutils==0.20.1
 dulwich==0.21.6
 empy==3.3.4
+esptool==5.3.1
+evdev==1.9.3
 fastbencode==0.2
 fastimport==0.9.14
 filelock==3.13.1
@@ -88,10 +93,12 @@ httplib2==0.20.4
 idna==3.6
 importlib-metadata==4.12.0
 iniconfig==1.1.1
+intelhex==2.3.0
 Jinja2==3.1.2
 jsonpatch==1.32
 jsonpointer==2.0
 jsonschema==4.10.3
+keyboard==0.13.5
 kiwisolver==0.0.0
 language-selector==0.1
 lark==1.1.9
@@ -141,6 +148,7 @@ ptyprocess==0.7.0
 pycairo==1.25.1
 pycodestyle==2.11.1
 pycollada==0.7.2
+pycparser==3.0
 pycryptodomex==3.20.0
 pycups==2.0.1
 pydocstyle==6.3.0
@@ -152,6 +160,7 @@ Pygments==2.17.2
 PyGObject==3.48.2
 PyJWT==2.7.0
 PyNaCl==1.5.0
+pynput==1.8.2
 pynvim==0.5.0
 pyparsing==3.1.1
 pypng==0.20231004.0
@@ -171,12 +180,16 @@ python-apt==2.7.7+ubuntu5.2
 python-dateutil==2.8.2
 python-debian==0.1.49+ubuntu2
 python-dotenv==1.0.1
+python-xlib==0.33
 pytz==2024.1
 pyxdg==0.28
 PyYAML==6.0.1
 qrcode==7.4.2
+ranger-fm==1.9.3
+reedsolo==1.7.0
 requests==2.31.0
 rich==13.7.1
+rich-click==1.9.8
 roman==3.3
 rosdep==0.26.0
 rosdep-modules==0.26.0
@@ -198,6 +211,7 @@ sympy==1.12
 systemd-python==235
 tabulate==0.10.0
 texttable==1.6.7
+tibs==0.5.7
 transforms3d==0.4.1
 typeguard==4.1.5
 typing_extensions==4.10.0

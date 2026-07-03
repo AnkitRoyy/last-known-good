@@ -1461,6 +1461,7 @@ libice6:amd64
 libicu-dev:amd64
 libicu74:amd64
 libicu74:i386
+libid3tag0:amd64
 libidn12:amd64
 libidn2-0:amd64
 libidn2-0:i386
@@ -1473,6 +1474,7 @@ libijs-0.35:amd64
 libimagequant0:amd64
 libimath-3-1-29t64:amd64
 libimath-dev:amd64
+libimlib2t64:amd64
 libimobiledevice6:amd64
 libini-config5t64:amd64
 libinih1:amd64
@@ -3455,6 +3457,7 @@ qttools5-private-dev:amd64
 qttranslations5-l10n
 qtwayland5:amd64
 rake
+ranger
 rapidjson-dev
 readline-common
 rfkill
@@ -4124,6 +4127,8 @@ vlc-plugin-video-output:amd64
 vlc-plugin-video-splitter:amd64
 vlc-plugin-visualization:amd64
 vtk9
+w3m
+w3m-img
 wamerican
 wayland-protocols
 wbritish

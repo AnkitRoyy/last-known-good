@@ -3609,6 +3609,7 @@ ros-jazzy-image-geometry
 ros-jazzy-image-tools
 ros-jazzy-image-transport
 ros-jazzy-image-transport-plugins
+ros-jazzy-image-view
 ros-jazzy-imu-complementary-filter
 ros-jazzy-imu-filter-madgwick
 ros-jazzy-imu-tools

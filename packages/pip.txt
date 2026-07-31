@@ -86,7 +86,7 @@ flake8-quotes==3.4.0
 fonttools==4.46.0
 fs==2.4.16
 gpg==1.18.0
-greenlet==3.0.3
+greenlet==3.5.4
 h11==0.16.0
 html5lib==1.1
 httplib2==0.20.4
@@ -140,6 +140,7 @@ pipx==1.4.3
 Pivy==0.6.9
 platformdirs==4.2.0
 platformio==6.1.19
+playwright==1.61.0
 pluggy==1.4.0
 ply==3.11
 protobuf==4.21.12
@@ -153,6 +154,7 @@ pycryptodomex==3.20.0
 pycups==2.0.1
 pydocstyle==6.3.0
 pydot==1.4.2
+pyee==13.0.1
 pyelftools==0.33
 pyflakes==3.2.0
 PyGithub==2.2.0

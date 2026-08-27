@@ -1,6 +1,5 @@
 android-studio
 bare
-code
 core18
 core20
 core22

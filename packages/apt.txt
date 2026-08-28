@@ -114,6 +114,7 @@ cloud-init
 cloudflare-warp
 cmake
 cmake-data
+code
 colord
 colord-data
 comerr-dev:amd64
@@ -2908,8 +2909,6 @@ linux-firmware
 linux-generic
 linux-generic-hwe-24.04
 linux-headers-6.17.0-35-generic
-linux-headers-6.8.0-124
-linux-headers-6.8.0-124-generic
 linux-headers-6.8.0-138
 linux-headers-6.8.0-138-generic
 linux-headers-7.0.0-30-generic
@@ -2984,8 +2983,6 @@ linux-modules-extra-6.8.0-124-generic
 linux-modules-extra-6.8.0-138-generic
 linux-sound-base
 linux-tools-6.17.0-35-generic
-linux-tools-6.8.0-124
-linux-tools-6.8.0-124-generic
 linux-tools-6.8.0-138
 linux-tools-6.8.0-138-generic
 linux-tools-7.0.0-30-generic
@@ -4040,6 +4037,7 @@ simplescreenrecorder-lib:amd64
 sip-dev
 smbclient
 snapd
+socat
 software-properties-common
 software-properties-gtk
 sonnet-plugins:amd64

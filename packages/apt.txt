@@ -33,7 +33,6 @@ android-sdk-platform-tools-common
 ani-cli
 ant
 ant-optional
-antigravity
 antlr
 anydesk
 apg
@@ -150,6 +149,7 @@ cups-pk-helper
 cups-ppdc
 cups-server-common
 curl
+cursor
 dash
 dbus
 dbus-bin
@@ -308,6 +308,7 @@ gfortran
 gfortran-13
 gfortran-13-x86-64-linux-gnu
 gfortran-x86-64-linux-gnu
+gh
 ghostscript
 gimp
 gimp-data
@@ -407,6 +408,7 @@ gnome-shell
 gnome-shell-common
 gnome-shell-extension-appindicator
 gnome-shell-extension-desktop-icons-ng
+gnome-shell-extension-manager
 gnome-shell-extension-prefs
 gnome-shell-extension-ubuntu-dock
 gnome-shell-extension-ubuntu-tiling-assistant
@@ -2514,6 +2516,7 @@ libtermkey1:amd64
 libtesseract5:amd64
 libtevent0t64:amd64
 libtext-charwidth-perl:amd64
+libtext-engine-0.1-0
 libtext-iconv-perl:amd64
 libtext-wrapi18n-perl
 libthai-data

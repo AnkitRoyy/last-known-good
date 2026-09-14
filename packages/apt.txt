@@ -60,6 +60,7 @@ automake
 autopoint
 autotools-dev
 avahi-daemon
+avr-libc
 avrdude
 babeltrace
 baobab
@@ -74,8 +75,10 @@ bind9-host
 bind9-libs:amd64
 binfmt-support
 binutils
+binutils-avr
 binutils-common:amd64
 binutils-x86-64-linux-gnu
+bison
 blt
 bluez
 bluez-cups
@@ -236,6 +239,7 @@ firebird3.0-utils
 firefox
 firmware-sof-signed
 flatpak
+flex
 fontconfig
 fontconfig-config
 fonts-crosextra-caladea
@@ -293,6 +297,7 @@ gcc-13-base:amd64
 gcc-13-x86-64-linux-gnu
 gcc-14-base:amd64
 gcc-14-base:i386
+gcc-avr
 gcc-x86-64-linux-gnu
 gcr
 gcr4
@@ -1148,6 +1153,8 @@ libfile-fcntllock-perl
 libfile-listing-perl
 libfile-mimeinfo-perl
 libfindbugs-java
+libfl-dev:amd64
+libfl2:amd64
 libflac12t64:amd64
 libflac12t64:i386
 libflann-dev:amd64
@@ -1180,7 +1187,10 @@ libfribidi-dev:amd64
 libfribidi0:amd64
 libfribidi0:i386
 libfsverity0:amd64
+libftdi1:amd64
 libftdi1-2:amd64
+libftdi1-dev
+libftdi1-doc
 libfuse2t64:amd64
 libfuse3-3:amd64
 libfwupd2:amd64
@@ -1439,6 +1449,9 @@ libheif-plugin-libde265:i386
 libheif1:amd64
 libheif1:i386
 libhfstospell11:amd64
+libhidapi-dev:amd64
+libhidapi-hidraw0:amd64
+libhidapi-libusb0:amd64
 libhogweed6t64:amd64
 libhogweed6t64:i386
 libhpmud0:amd64
@@ -2760,10 +2773,12 @@ liburdfdom-world4.0:amd64
 liburi-perl
 liburiparser-dev
 liburiparser1:amd64
+libusb-0.1-4:amd64
 libusb-1.0-0:amd64
 libusb-1.0-0:i386
 libusb-1.0-0-dev:amd64
 libusb-1.0-doc
+libusb-dev
 libusbmuxd6:amd64
 libutempter0:amd64
 libutf8proc3:amd64

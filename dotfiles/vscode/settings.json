@@ -111,5 +111,6 @@
   "workbench.editor.showTabs" : "single",
   "explorer.compactFolders": false,
   "gitlens.ai.vscode.model": "copilot:gemini-3.1-pro-preview",
+  "claudeCode.hideOnboarding": true,
   // "terminal.integrated.fontFamily": "Iosevka Charon Mono",
 }

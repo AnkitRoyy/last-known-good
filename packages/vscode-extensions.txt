@@ -26,6 +26,7 @@ ms-vscode.cpptools
 ms-vscode.cpptools-extension-pack
 ms-vscode.cpptools-themes
 openai.chatgpt
+openai.codex-audio
 pkief.material-icon-theme
 platformio.platformio-ide
 pnp.polacode

@@ -497,6 +497,7 @@ hping3
 hplip
 hplip-data
 hprof-conv
+htop
 humanity-icon-theme
 hunspell-en-au
 hunspell-en-ca
